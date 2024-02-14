@@ -1,0 +1,17 @@
+
+// for(initial_value, condition, increment) {
+//     // body of loop
+// }
+
+// initial value
+// while(condition) {
+//     body of loop
+
+//     increment
+// }
+
+// initial_value
+// do {
+    // body of loop
+// } while(condition);
+
